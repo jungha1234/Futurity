@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0f4d0bae819b2ad4d975e158670a01bb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _spark: {fileID: 2800000, guid: 49915a1589efe354994c461b525300b3, type: 3}
+  - _grad: {fileID: 2800000, guid: af1af9a1cfee23b499cc798e19b9dc55, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
