@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b5f0f5ca97ca0994aa2dc8c835a4f180
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _smoke_01: {fileID: 2800000, guid: 5b1a831a609f41748a74f12426938ff5, type: 3}
+  - _F_03_02_hit_jjk_circle_01_texture: {fileID: 2800000, guid: 7389edb3344835140931fc18c06059eb, type: 3}
+  - _cloud_01: {fileID: 2800000, guid: 96eab1a04c85b4d4397fdabf8e37a997, type: 3}
+  - unity_Lightmaps: {instanceID: 0}
+  - unity_LightmapsInd: {instanceID: 0}
+  - unity_ShadowMasks: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

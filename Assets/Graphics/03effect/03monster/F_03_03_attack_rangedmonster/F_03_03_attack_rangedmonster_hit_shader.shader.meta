@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abc5ee2423afa6b498f97d5047c10131
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CausticsRender_004: {fileID: 2800000, guid: d26ca0447ce8075479454fce9d651ddf,
+      type: 3}
+  - _backlight: {fileID: 2800000, guid: 0576eb135e402e54ba4a818ad88575bf, type: 3}
+  - _ring2: {fileID: 2800000, guid: 2cc11cfa3ecb8164999035f510ffe96d, type: 3}
+  - _grad: {fileID: 2800000, guid: 0576eb135e402e54ba4a818ad88575bf, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

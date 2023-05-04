@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 89b4c94b83b7c104a9ceff8dc7b10259
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _F_03_02_attack_jjj_circle_01_texture: {fileID: 2800000, guid: baeab9757178ce14699171257e486597, type: 3}
+  - _F_03_02_attack_jjj_wind_texture: {fileID: 2800000, guid: 516493beaf7bc244a8cb8d6a6d527f9c, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
